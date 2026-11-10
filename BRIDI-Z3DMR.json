@@ -1,0 +1,1024 @@
+{
+  "format": "z3dmr-backup",
+  "version": 1,
+  "talkgroups": [
+    {
+      "id": 1025,
+      "name": "bridi.my.id",
+      "network": "My Servers"
+    }
+  ],
+  "contacts": [
+    {
+      "dmrId": 1022001,
+      "callsign": "BD62AA",
+      "name": "ALI AKBAR",
+      "city": "LANGKAT",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022002,
+      "callsign": "BD62PS",
+      "name": "PARSONO",
+      "city": "PEKALU",
+      "state": "SEMARANG",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022003,
+      "callsign": "BD62AFF",
+      "name": "INDRA ISWARA",
+      "city": "BEKASI",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022004,
+      "callsign": "BD62ZK",
+      "name": "ZULFAN KELANA",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022005,
+      "callsign": "BD62JDM",
+      "name": "JAMALUDDIN",
+      "city": "TANJUNG JABUNG",
+      "state": "JAMBI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022006,
+      "callsign": "BD62RV",
+      "name": "RAVIE",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022007,
+      "callsign": "BD62JO",
+      "name": "SARJONO",
+      "city": "SURABAYA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022008,
+      "callsign": "BD62DD",
+      "name": "DEDEN",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022009,
+      "callsign": "BD62ARD",
+      "name": "ARDIANSYAH",
+      "city": "LANGKAT",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022010,
+      "callsign": "BD62MHN",
+      "name": "MAHONI",
+      "city": "LANGKAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022011,
+      "callsign": "BD62DA",
+      "name": "DENY",
+      "city": "PELALAWAN",
+      "state": "RIAU",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022012,
+      "callsign": "BD62SFK",
+      "name": "KUKUH DOBLANK",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022013,
+      "callsign": "BD62NMM",
+      "name": "JOHAN",
+      "city": "PEKANBARU",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022014,
+      "callsign": "BD62AWS",
+      "name": "AWANG SUMARDI",
+      "city": "JAMBI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022015,
+      "callsign": "BD62AR",
+      "name": "ANDRIK",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022016,
+      "callsign": "BD62NIR",
+      "name": "NIRWAN",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022017,
+      "callsign": "BD62YKB",
+      "name": "YAKOB",
+      "city": "SURABAYA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022018,
+      "callsign": "BD62IIK",
+      "name": "SUWITO",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022019,
+      "callsign": "BD62BCG",
+      "name": "ZULKARNAIN",
+      "city": "MEDAN",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022020,
+      "callsign": "BD62YUS",
+      "name": "YUSTINUS WARUWU",
+      "city": "SIBOLGA",
+      "state": "SUMATERA UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022021,
+      "callsign": "BD62ACX",
+      "name": "TRI BUDI",
+      "city": "SORONG",
+      "state": "PAPUA BARAT DAYA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022022,
+      "callsign": "BD62LLB",
+      "name": "HADIYANTO",
+      "city": "BEKASI",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022023,
+      "callsign": "BD62ANG",
+      "name": "ANANG",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022024,
+      "callsign": "BD62KA",
+      "name": "KUSWANDI",
+      "city": "MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022025,
+      "callsign": "BD62RA",
+      "name": "DITA",
+      "city": "PEKAN BARU",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022026,
+      "callsign": "BD62DEF",
+      "name": "DHEFFY",
+      "city": "JAMBI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022028,
+      "callsign": "BD62AKU",
+      "name": "HERYANTO",
+      "city": "PEKANBARU",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022029,
+      "callsign": "BD62AWH",
+      "name": "INDRA",
+      "city": "BINTARO JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022030,
+      "callsign": "BD62BAP",
+      "name": "ABENK",
+      "city": "JAKTIM",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022031,
+      "callsign": "BD62AXC",
+      "name": "FIKO",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022032,
+      "callsign": "BD62DDF",
+      "name": "TYO",
+      "city": "JAKARTA TIMUR",
+      "state": "DKI JAKARTA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022033,
+      "callsign": "BD62BCC",
+      "name": "JHONAL",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022034,
+      "callsign": "BD62DR",
+      "name": "RADDY IRMAWAN",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022035,
+      "callsign": "BD62RRR",
+      "name": "KABUL",
+      "city": "SORONG",
+      "state": "PAPUA BARAT DAYA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022036,
+      "callsign": "BD62WHY",
+      "name": "WAHYU",
+      "city": "MUARO JAMBI",
+      "state": "JAMBI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022037,
+      "callsign": "BD62IXM",
+      "name": "DIAN HERMAWAN",
+      "city": "CIAMIS",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022038,
+      "callsign": "BD62HAN",
+      "name": "I HANAFI",
+      "city": "SERANG",
+      "state": "BANTEN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022039,
+      "callsign": "BD62NPC",
+      "name": "SUTAN PL",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022040,
+      "callsign": "BD62RZL",
+      "name": "RIZAL",
+      "city": "BANDUNG BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022041,
+      "callsign": "BD62BAN",
+      "name": "BAMBANG",
+      "city": "YOGYAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022042,
+      "callsign": "BD62HMY",
+      "name": "ZALDIE",
+      "city": "KOTA MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022043,
+      "callsign": "BD62ARI",
+      "name": "ARICHEPOT",
+      "city": "CIREBON",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022044,
+      "callsign": "BD62GJS",
+      "name": "PAMUNGKAS",
+      "city": "BANDUNG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022045,
+      "callsign": "BD62TNI",
+      "name": "DIDIK",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022046,
+      "callsign": "BD62BRN",
+      "name": "BARON",
+      "city": "JAKARTA UTARA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022047,
+      "callsign": "BD62GDL",
+      "name": "GUNDUL",
+      "city": "KALTIM",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022048,
+      "callsign": "BD62NUR",
+      "name": "UDIN",
+      "city": "MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022049,
+      "callsign": "BD62AET",
+      "name": "ISWADI",
+      "city": "SORONG",
+      "state": "PAPUA BARAT DAYA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022050,
+      "callsign": "BD62SLH",
+      "name": "M.SALEH",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022051,
+      "callsign": "BD62SFS",
+      "name": "SUBHAN FS",
+      "city": "MADURA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022052,
+      "callsign": "BD62LTF",
+      "name": "LUTFI",
+      "city": "MUSI BANYUASIN",
+      "state": "SUMATERA SELATAN",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022053,
+      "callsign": "BD62RED",
+      "name": "ADI",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022054,
+      "callsign": "BD62KIN",
+      "name": "SOLIKIN",
+      "city": "MUARO JAMBI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022055,
+      "callsign": "BD62TNS",
+      "name": "TONI",
+      "city": "MAMPANG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022056,
+      "callsign": "BD62MWT",
+      "name": "MISWANTO",
+      "city": "MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022057,
+      "callsign": "BD62BOT",
+      "name": "IMAM",
+      "city": "MAKASAR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022058,
+      "callsign": "BD62ACN",
+      "name": "JOHAN",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022059,
+      "callsign": "BD62EKO",
+      "name": "EKO WKS",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022060,
+      "callsign": "BD62JRY",
+      "name": "JERRY",
+      "city": "SURABAYA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022061,
+      "callsign": "BD62WP",
+      "name": "PONGKI",
+      "city": "BADUNG",
+      "state": "BALI",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022062,
+      "callsign": "BD62GRT",
+      "name": "SARIPUDIN",
+      "city": "GARUT",
+      "state": "JAWA BARAT",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022063,
+      "callsign": "BD62QRK",
+      "name": "HARYADI",
+      "city": "MALANG",
+      "state": "JAWA TIMUR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022064,
+      "callsign": "BD62BA",
+      "name": "BLI WAYAN",
+      "city": "BALI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022065,
+      "callsign": "BD62IRW",
+      "name": "IRWAN",
+      "city": "SURABAYA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022066,
+      "callsign": "BD62THE",
+      "name": "ARIE NUGROHO",
+      "city": "KOTA TANGERANG SELATAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022069,
+      "callsign": "BD62HTY",
+      "name": "YUDHA",
+      "city": "BALI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022090,
+      "callsign": "BD62GW",
+      "name": "OPUS GATEWAY",
+      "city": "",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022091,
+      "callsign": "BD62AMR",
+      "name": "AMIR IMAN",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022092,
+      "callsign": "BD62MRD",
+      "name": "DODDY",
+      "city": "SURABAYA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022093,
+      "callsign": "BD62BIX",
+      "name": "HARI YAMIN",
+      "city": "BANGKALAN - MADURA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022094,
+      "callsign": "BD62DRG",
+      "name": "JOHN GUNAWAN",
+      "city": "JAKARTA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022095,
+      "callsign": "BD62KLT",
+      "name": "PUTU ANGGARADANA",
+      "city": "DENPASAR BALI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022096,
+      "callsign": "BD62AGM",
+      "name": "KAMALUDDIN",
+      "city": "LANGKAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022097,
+      "callsign": "BD62TRK",
+      "name": "M. SALEH",
+      "city": "TARAKAN",
+      "state": "KALIMANTAN UTARA",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022098,
+      "callsign": "BD62BRJ",
+      "name": "ANANG HIDAYAT",
+      "city": "KAB. SLEMAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022099,
+      "callsign": "BD62AFZ",
+      "name": "ANANG FIRMANTO",
+      "city": "JAMBI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022101,
+      "callsign": "BD62AVR",
+      "name": "HARIS",
+      "city": "JAKARTA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022102,
+      "callsign": "BD62FEB",
+      "name": "FEBRI ANTONIA",
+      "city": "TULUNGAGUNG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022104,
+      "callsign": "BD62ALX",
+      "name": "ALEXANDRA",
+      "city": "BINJAI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022105,
+      "callsign": "BD62MQS",
+      "name": "JOHN GUNAWAN",
+      "city": "JAKARTA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022106,
+      "callsign": "BD62MAL",
+      "name": "MUHAMMAD AMIRUDIN LUTFI",
+      "city": "MUSI BANYUASIN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022107,
+      "callsign": "BD62DENY",
+      "name": "DENNY SUTIO",
+      "city": "DENPASAR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022108,
+      "callsign": "BD62BNN",
+      "name": "RADEN WIJAYA",
+      "city": "MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022109,
+      "callsign": "BD62DWY",
+      "name": "DWY SISHADI",
+      "city": "BANJARMASIN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022110,
+      "callsign": "BD62BWI",
+      "name": "ANANG NUGROHO",
+      "city": "BANYUWANGI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022111,
+      "callsign": "BD62GJSP",
+      "name": "PAMUNGKAS",
+      "city": "BANDUNG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022112,
+      "callsign": "BD62JIN",
+      "name": "FAJRIN NUR M",
+      "city": "MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022113,
+      "callsign": "BD62JNL",
+      "name": "BUDI SANTOSA",
+      "city": "BLORA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022114,
+      "callsign": "BD62MRQ",
+      "name": "MUAMAR QADAFI",
+      "city": "BATANGHARI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022115,
+      "callsign": "BD62JXA",
+      "name": "AGUS SUPANGKAT",
+      "city": "JAKARTA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022116,
+      "callsign": "BD62LPX",
+      "name": "RONY ROBIANTO",
+      "city": "JAKARTA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022117,
+      "callsign": "BD62UMR",
+      "name": "ALI UMAR",
+      "city": "CENGKARENG JAKARTA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022118,
+      "callsign": "BD62RTO",
+      "name": "JULI RIANTO",
+      "city": "KABUPATEN ACEH TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022119,
+      "callsign": "BD62BGA",
+      "name": "AGUS SUDIADNYANA",
+      "city": "BULELENG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022120,
+      "callsign": "BD62YCF",
+      "name": "GOAM SUGOAM",
+      "city": "MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022122,
+      "callsign": "BD62BSX",
+      "name": "FIRDAUS MOECHTAR",
+      "city": "SEPATAN",
+      "state": "KAB. TANGERANG",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022123,
+      "callsign": "BD62ANT",
+      "name": "JULI RIANTO",
+      "city": "KABUPATEN ACEH TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022124,
+      "callsign": "BD62RAC",
+      "name": "HAROEN WAHID",
+      "city": "BOGOR BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022125,
+      "callsign": "BD62OKE",
+      "name": "EKO",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022127,
+      "callsign": "BD62RAB",
+      "name": "FEY TUS",
+      "city": "KOTA ADM. JAKARTA TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022128,
+      "callsign": "BD62YON",
+      "name": "YONI RUSDIANA",
+      "city": "KAB. TANGERANG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022129,
+      "callsign": "BD62BVW",
+      "name": "RUDI HATMAN",
+      "city": "JAKARTA TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022130,
+      "callsign": "BD62BSJ",
+      "name": "ANTON MARPAUNG",
+      "city": "RANTAU PRAPAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022131,
+      "callsign": "BD62CLC",
+      "name": "EDI TRIYANTO",
+      "city": "BANTEN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022132,
+      "callsign": "BD62MTH",
+      "name": "ADE SAEFUL BAHRI",
+      "city": "GARUT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022133,
+      "callsign": "BD62WAN",
+      "name": "WANG HARTO",
+      "city": "MATARAM",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022134,
+      "callsign": "BD62ALEX",
+      "name": "ALEXANDRA",
+      "city": "BINJAI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022135,
+      "callsign": "BD62SJU",
+      "name": "ADE SUMARNA",
+      "city": "JAKARTA 13520",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022136,
+      "callsign": "BD62FEY",
+      "name": "FEY_TUS",
+      "city": "JAKARTA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022137,
+      "callsign": "BD62HBQ",
+      "name": "KEKE ANITA",
+      "city": "DEPOK JAWA BARAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022138,
+      "callsign": "BD62DOM",
+      "name": "ANTHONI SALAM",
+      "city": "ACEH TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022139,
+      "callsign": "BD62AFN",
+      "name": "IQBAL HUSAINI",
+      "city": "JAKARTA TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022140,
+      "callsign": "BD62DOA",
+      "name": "USMAN SKM",
+      "city": "ACEH TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022141,
+      "callsign": "BD62ACJ",
+      "name": "UDAY",
+      "city": "JAKARTA TIMUR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022142,
+      "callsign": "BD62MSN",
+      "name": "MUHTAR SANUSI",
+      "city": "PANGKALAN KETINCI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022143,
+      "callsign": "BD62AST",
+      "name": "MUHAMMAD TAUFIK",
+      "city": "KOTA PEMATANGSIANTAR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022144,
+      "callsign": "BD62ZZR",
+      "name": "H.DARWIS CICILIA",
+      "city": "JAKARTA UTARA",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022145,
+      "callsign": "BD62CII",
+      "name": "BETANTYO WISNU HERNAWAN",
+      "city": "BANGAKALAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022146,
+      "callsign": "BD62MBG",
+      "name": "MANK HAROEN",
+      "city": "JASINGA BOGOR",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022147,
+      "callsign": "BD62AON",
+      "name": "JUSUF SARTONO",
+      "city": "KOTA MEDAN",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022148,
+      "callsign": "BD62EGW",
+      "name": "AHMAD AZWAR",
+      "city": "LANGKAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022149,
+      "callsign": "BD62LNP",
+      "name": "SAMSU BAHRI",
+      "city": "KAB BEKASI",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022150,
+      "callsign": "BD62HBC",
+      "name": "IDHAM",
+      "city": "LANGKAT",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022151,
+      "callsign": "BD62ZIS",
+      "name": "GEDE",
+      "city": "LAMPUNG",
+      "state": "",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 1022152,
+      "callsign": "BD62TIK",
+      "name": "RINTO SIMATUPANG",
+      "city": "LANGKAT",
+      "state": "",
+      "country": "INDONESIA"
+    }
+  ],
+  "masterServers": [
+    {
+      "id": 0,
+      "name": "BRIDI",
+      "address": "bridi.my.id",
+      "port": 62031,
+      "options": false,
+      "network": "My Servers",
+      "password": ""
+    }
+  ]
+}
